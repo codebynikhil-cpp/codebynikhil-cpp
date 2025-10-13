@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm **Nikhil Kumar**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Engineer;AI+%26+Machine+Learning+Specialist;Cloud+Architecture+%26+DevOps;Generative+AI+%7C+LLM+Integration;Scalable+System+Designer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=28&pause=1000&color=FF6F00&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;AI+%26+Machine+Learning+Specialist;Generative+AI+%7C+LLM+Integration;Scalable+System+Designer;Open+Source+Contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-111260285/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niku23ise@cmrit.ac.in)
@@ -16,20 +16,17 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
-🚀 **Full-Stack Engineer** specializing in **AI-powered applications**, **microservices architecture**, and **real-time distributed systems**
+🚀 Full-Stack Engineer focused on AI-driven systems, microservices, and real-time architectures
 
-🔬 **Research Focus:** Building production-grade ML pipelines, exploring LLM fine-tuning, and developing intelligent automation frameworks
+🔬 Passionate about ML pipelines, LLM fine-tuning, and intelligent automation
 
-🏗️ **Architecture Expertise:** Designing scalable backend systems with event-driven architectures, implementing CQRS patterns, and optimizing database performance at scale
+🏗️ Skilled in scalable backend design, event-driven systems, and database optimization
 
-💡 **Innovation Drive:** Passionate about leveraging cutting-edge technologies to solve complex business problems and deliver measurable impact
+🤝 Contributor to open-source and developer tooling
 
-🤝 **Collaboration:** Actively contributing to open-source ecosystems and building developer tools that improve engineering workflows
+📊 Experienced in system design, performance tuning, and technical mentorship
 
-📊 **Technical Leadership:** Experience in system design, performance optimization, and mentoring development teams on best practices
-
-⚡ **Philosophy:** Bridging the gap between complex technical implementations and intuitive user experiences through elegant, maintainable code
-
+⚡ Dedicated to building elegant, impactful, and user-focused solutions
 <br clear="right"/>
 
 ---
@@ -100,9 +97,9 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!-- <td>
         <img src="https://github-readme-stats.vercel.app/api?username=codebynikhil-cpp&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="190" />
-      </td>
+      </td> -->
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=codebynikhil-cpp&theme=aura&hide_border=true" alt="GitHub Streak" height="190" />
       </td>
@@ -168,15 +165,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebynikhil-cpp&theme=github-compact&hide_border=true&bg_color=00000000&color=FF6F00&line=FF6F00&point=FFFFFF" alt="Contribution Graph" width="98%" />
 </div>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebynikhil-cpp/codebynikhil-cpp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebynikhil-cpp/codebynikhil-cpp/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codebynikhil-cpp/codebynikhil-cpp/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
